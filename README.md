@@ -54,7 +54,7 @@ A Java-based cryptography utility for secure text and file encryption across mul
 
 ### 🤝 Let's Connect
 
-- 💼 LinkedIn: *[add new profile URL once created]*
+- 💼 LinkedIn: www.linkedin.com/in/million-hagos
 - ✉️ Email: MillionHagosPro1@gmail.com
 - 📍 Based in Addis Ababa, open to remote & on-site opportunities
 
